@@ -1,1 +1,1 @@
-streamlit pymupdf pdf2docx
+streamlit pymupdf 
